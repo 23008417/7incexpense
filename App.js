@@ -24,7 +24,7 @@ const App = () => {
                 <Stack.Screen
                     name="Edit"
                     component={EditScreen}
-                    options={{ title: 'Edit Expense' }}
+                    options={{ title: 'Edit' }}
                 />
             </Stack.Navigator>
         </NavigationContainer>
